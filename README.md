@@ -1,0 +1,1 @@
+Este es un proyecto de prueba de cómo crear un repositorio remoto desde GitHub para vincularlo con el repositorio local de nuestra PC.
